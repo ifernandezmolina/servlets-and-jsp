@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>Esta es la home de la aplicacion</h2>
 </body>
 </html>
